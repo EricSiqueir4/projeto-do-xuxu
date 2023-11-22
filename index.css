@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&display=swap');
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center; 
+    font-family: 'Playpen Sans';
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texto{
+    text-align: center;
+    align-self: flex-end;
+    font-size: 28px;
+    font-family: 'Playpen Sans';
+
+}
+
+.fotoamor1{
+    margin: 20px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+    
+.texto2{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Playpen Sans';
+}
