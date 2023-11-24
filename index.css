@@ -15,6 +15,10 @@ main{
     justify-content: space-between;
 }
 
+hr{
+    border-color: red;
+}
+
 .texto{
     text-align: center;
     align-self: flex-end;
@@ -25,6 +29,8 @@ main{
 
 .fotoamor1{
     margin: 20px;
+    border-radius: 50%;
+    border: 3px solid red;
 }
 
 footer{
@@ -39,3 +45,10 @@ footer{
     font-family: 'Playpen Sans';
 }
 
+.gifteamoamor{
+    text-decoration: none;
+}
+
+.HBO{
+    font-size: 13px;
+}
